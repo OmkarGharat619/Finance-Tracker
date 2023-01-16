@@ -33,15 +33,6 @@ this is a web app implemented using Flask and bootstrap that works like a mini s
 * SQLAlchemy
 (Other dependancies can be found out in te requirements.txt file)
 
-## Installation-
-
-1] Star and clone the repository to your machine.
-
-2] Run the command `pip install -r requirements.txt`
-
-3] Once all the dependancies have been installed, run the command `python Main.py`
-
-4] This should start a local server and you can access it on your browser.
 
 Expense management refers to the systems deployed by a business to process, pay, and audit employee-initiated expenses. These costs include, but are not limited to, expenses incurred for travel and entertainment. Expense management includes the policies and procedures that govern such spending, as well as the technologies and services utilized to process and analyze the data associated with it.
 
